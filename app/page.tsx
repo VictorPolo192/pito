@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <main className="min-h-screen flex items-stretch justify-center bg-[#8A2BE2]">
-      <div className="bg-red-600 text-white p-12 shadow-lg w-2/5 max-w-2xl h-full">
+      <div className="bg-red-600 text-white p-12 shadow-lg w-2/5 max-w-2xl h-screen">
         <p
           style={{ fontFamily: "Comic Sans MS, Comic Sans, cursive" }}
           className="text-lg"
