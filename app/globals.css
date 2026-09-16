@@ -127,3 +127,8 @@
     @apply font-sans;
     }
 }
+
+/* Custom demo styles: lilac background and Comic Sans usage inside the page */
+body {
+  background-color: #C8A2C8;
+}
